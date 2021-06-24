@@ -1,5 +1,4 @@
 library(data.table)
-library(tidyverse)
 library(dplyr)
 
 # read in the data
